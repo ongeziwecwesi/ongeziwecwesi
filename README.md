@@ -1,21 +1,18 @@
 ### Hi, I'm Ongeziwe
 
-I'm a software developer from the Eastern Cape, South Africa, and I studied Computer Science at the University of Fort Hare (BSc Hons, MSc). I like building practical tools for people who are usually left out of the design: rural schools, low-connectivity areas, and speakers of African languages.
+Software developer from the Eastern Cape, finishing an MSc in Computer Science at the University of Fort Hare (2027). I build practical software for people usually left out of the design: rural schools, low-signal areas and isiXhosa speakers.
 
-For my master's I built a web app that recommends climate change learning modules to high school learners. It looks at their school profile and what their families deal with at home: drought, floods, farming. Every topic page is in English and isiXhosa, my home language.
+**Open to 2027 graduate and junior roles** in software development, data science and ML engineering.
 
-**Some things I've built**
+**What I've built**
 
-- A Power Apps and Power Automate timesheet app for an HR team. Processing used to take three days, and now it takes under an hour.
-- CI/CD pipelines in GitHub Actions that deploy databases across environments, and SSIS pipelines that load data into SQL Server.
-- A Flask and scikit-learn recommender with a bilingual front end. That's the master's project above.
+- [isiXhosa Tech Glossary](https://github.com/ongeziwecwesi/isixhosa-tech-glossary): bilingual FastAPI + PostgreSQL API with ranked search and a reviewed suggestion workflow. [Live](https://isixhosa-tech-glossary.onrender.com)
+- [Offline School Register](https://github.com/ongeziwecwesi/offline-school-register): offline-first attendance PWA (ASP.NET Core, IndexedDB) with an idempotent sync API.
+- [Stokvel Manager](https://github.com/ongeziwecwesi/stokvel-manager): Spring Boot API that enforces stokvel payout rules, with Flyway and PostgreSQL integration tests.
+- MSc research: Random Forest recommender on TIMSS 2023 data, served by a bilingual Flask app (code public after examination).
 
-I've also tutored Java and Python practicals at university. Helping 90 students debug their code at once teaches you to read code quickly.
+**Stack:** Python · Java · C# · SQL · FastAPI · Spring Boot · ASP.NET Core · PostgreSQL · Docker · GitHub Actions · scikit-learn · Azure
 
-**Tools I use**
+**Certified:** Azure AI Engineer (AI-102) · Azure Developer (AZ-204) · OCI AI Foundations
 
-Python · Java · C# · SQL · JavaScript · Flask · scikit-learn · Azure · GitHub Actions · SQL Server · Power BI · Power Platform
-
-**Certifications:** Azure Developer Associate (AZ-204) · Azure AI Engineer Associate (AI-102)
-
-[LinkedIn](https://www.linkedin.com/in/ongeziwe-cwesi/) · ongeziwecwesi@gmail.com
+[Portfolio](https://ongeziwecwesi.github.io) · [LinkedIn](https://www.linkedin.com/in/ongeziwe-cwesi/) · ongeziwecwesi@gmail.com
